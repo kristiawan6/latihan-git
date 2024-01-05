@@ -1,2 +1,3 @@
-console.log("William")
-console.log("Kristiawan")
+let nama = "William Kristiawan"
+
+console.log(nama)
